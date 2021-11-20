@@ -10,6 +10,6 @@
 <strong>Fernando Estevao Web developer student</strong>
 <br>
 <h3>Acesse o site:</h3>
-[aqui](fernando-estevao.github.io/1-projeto_universidade.html/index.html)
+[aqui](https://fernando-estevao.github.io/1-projeto_universidade.html/index.html)
 
 
