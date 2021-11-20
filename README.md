@@ -9,10 +9,7 @@
 <br>
 <strong>Fernando Estevao Web developer student</strong>
 <br>
-<h2> Tabela de contéudos</h2>
+<h3>Acesse o site:</h3>
+[aqui](fernando-estevao.github.io/1-projeto_universidade.html/index.html)
 
-<ul> 
-<li>Índice</li>
-<li>Contato</li>
-<li>Quem somos</li>
-</ul>
+
